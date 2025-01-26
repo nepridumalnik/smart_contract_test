@@ -1,0 +1,65 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "payForItem",
+				"outputs": [],
+				"stateMutability": "payable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "widthDrawAll",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/test/Demo.sol": "Shop"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/test/Demo.sol": {
+			"keccak256": "0xf11a1f87de8d2c53351bf9010a25d6fda0d2af49a413afae968472b82b39bb37",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://3e0ed43cb85d70288c630e97e66f130ed0156d5a6581f3a1f7462591651d177f",
+				"dweb:/ipfs/QmX6CfbfhkQb6kv1yg7XeDx1EKtAdHUrVSHEPVv3j86Nd5"
+			]
+		}
+	},
+	"version": 1
+}
